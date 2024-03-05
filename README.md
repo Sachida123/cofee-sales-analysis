@@ -1,6 +1,4 @@
-# cofee-sales-analysis
-# Coffee Sales Analysis Project
-
+## cofee-sales-analysis
 ## Description
 This project analyzes coffee sales data using Excel and Jupyter Notebook to derive insights into top-selling items, top-selling states, weekly sales trends, and yearly sales trends. The analysis aims to provide actionable insights for optimizing inventory management and enhancing sales strategies.
 
